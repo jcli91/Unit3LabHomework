@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Project 1 - Doggo Trivia",
+      "live": "https://seir-penguin-project-1-nine.vercel.app/",
+      "git": "https://github.com/jcli91/seir_penguin_project_1",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Project 2 - PetStars",
+      "live": "https://jlproject2.herokuapp.com/",
+      "git": "https://github.com/jcli91/penguin_project2",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
